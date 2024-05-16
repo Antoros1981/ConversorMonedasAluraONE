@@ -9,11 +9,16 @@ Conversor de divisas y temperaturas. seleccione una de las opciones
 
 Cuando es seleccionada la opción de Divisas
 Se muestra al usuario la lista de divisas disponibles, al momento de esta entrega se cuenta con las 10 opciones siguientes:
-1 - MXN (Peso México)       6 - USD (Dólar EEUU)
-2 - ARS (Peso Argentina)    7 - CAD (Dólar Canada)
-3 - CLP (Peso Chile)        8 - EUR (Euros)
-4 - COP (Peso Colombia)     9 - JPY (Yen Japón)
-5 - BRL (Real Brasil)      10 - CRC (Colón Costa Rica)
+ 1 - MXN (Peso México)       
+ 2 - ARS (Peso Argentina)    
+ 3 - CLP (Peso Chile)        
+ 4 - COP (Peso Colombia)     
+ 5 - BRL (Real Brasil)     
+ 6 - USD (Dólar EEUU)
+ 7 - CAD (Dólar Canada)
+ 8 - EUR (Euros)
+ 9 - JPY (Yen Japón)
+10 - CRC (Colón Costa Rica)
       
 En el siguiente paso se deberá ingresar el monto a convertir
     
